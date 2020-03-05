@@ -9,5 +9,3 @@ def parrot(phrase)
   puts #{phrase}
   return "Pretty bird!"
 end
-
-phrase = "Pretty bird!"
